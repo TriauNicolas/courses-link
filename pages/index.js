@@ -22,19 +22,10 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <div
-        className={`${styles.page} ${geistSans.variable} ${geistMono.variable}`}
-      >
+      <div className={`${styles.page} ${geistSans.variable} ${geistMono.variable}`}>
         <main className={styles.main}>
-          <Image
-            className={styles.logo}
-            src="/next.svg"
-            alt="Next.js logo"
-            width={100}
-            height={20}
-            priority
-          />
-          <a href="/dev_web_01.pdf" download="dev_web_01">Cours dev web 1</a>
+          <a className={styles.links} href="/cours_db_ns.pdf" download="cours_db_ns.pdf">- Cours DB NS.pdf</a>
+          <a className={styles.links} href="/nsdb.txt" download="nsdb.txt">- NSDB.txt</a>
         </main>
       </div>
     </>

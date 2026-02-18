@@ -1,0 +1,13 @@
+"product_id","product_name","category","price","stock_quantity","supplier","rating"
+101,"Wireless Mouse","Electronics",19.99,150,"TechCorp",4.5
+102,"USB Keyboard","Electronics",29.99,85,"KeyMakers",4.2
+103,"Laptop Stand","Accessories",39.50,60,"",4.0
+104,"Noise Cancelling Headphones","Electronics",89.99,40,"SoundWave"
+105,"Office Chair","Furniture",129.99,25,"FurniCo",4.7
+106,"Desk Lamp","Furniture",,70,"Lightify",3.9
+107,"Smartphone","Electronics",699.99,30,"MobileInc",4.8
+108,"Coffee Mug","Kitchen",12.5,200
+109,"Notebook","Stationery",5.99,500,"PaperGoods",4.1
+110,"Backpack","Accessories",49.99,,"CarryAll",4.3
+111,"Water Bottle","Kitchen",15.0,120,"SplashCo"
+112,"Gaming Monitor Electronics",249.99,15,"ViewBest",4.6

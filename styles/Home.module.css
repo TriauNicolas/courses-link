@@ -24,9 +24,15 @@
   max-width: 800px;
   flex-direction: column;
   align-items: flex-start;
-  justify-content: space-between;
+  /* justify-content: space-between; */
   background-color: var(--foreground);
   padding: 120px 60px;
+}
+
+.links {
+  text-decoration: underline;
+  color: coral;
+  margin: 6px 0px;
 }
 
 .intro {
