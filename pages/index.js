@@ -17,7 +17,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Create Next App</title>
+        <title>ESLSCA Courses</title>
         <meta name="description" content="Links for ESLSCA courses" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
