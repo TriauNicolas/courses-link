@@ -24,8 +24,9 @@ export default function Home() {
       </Head>
       <div className={`${styles.page} ${geistSans.variable} ${geistMono.variable}`}>
         <main className={styles.main}>
-          <a className={styles.links} href="/cours_db_ns.pdf" download="cours_db_ns.pdf">- Cours DB NS.pdf</a>
-          <a className={styles.links} href="/nsdb.txt" download="nsdb.txt">- NSDB.txt</a>
+          <a className={styles.links} href="/cours_architecture_nosql.pdf" download="cours_architecture_nosql.pdf">- Cours Architecture NoSQL.pdf</a>
+          {/* <a className={styles.links} href="/cours_db_ns.pdf" download="cours_db_ns.pdf">- Cours DB NS.pdf</a>
+          <a className={styles.links} href="/nsdb.txt" download="nsdb.txt">- NSDB.txt</a> */}
         </main>
       </div>
     </>
