@@ -32,6 +32,7 @@ export default function Home() {
           <a className={styles.links} href="/nsdb.txt" download="nsdb.txt">- NSDB.txt</a>
           <a className={styles.links} href="/script.py" download="script.py">- Script.py</a>
           <a className={styles.links} href="/api.py" download="api.py">- API.py</a>
+          <a className={styles.links} href="/cv.pdf" download="cv.pdf">- CV.pdf</a>
         </main>
       </div>
     </>
